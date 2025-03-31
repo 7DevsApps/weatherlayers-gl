@@ -1,7 +1,7 @@
 {
-  "name": "weatherlayers-gl",
+  "name": "weatherlayers-gl-fork",
   "version": "2025.3.0",
-  "description": "WeatherLayers GL - Weather Visualization Layers for deck.gl",
+  "description": "FORK - WeatherLayers GL - Weather Visualization Layers for deck.gl",
   "keywords": [
     "deck.gl",
     "weather",
@@ -12,7 +12,7 @@
     "grid",
     "particle"
   ],
-  "author": "WeatherLayers.com <info@weatherlayers.com>",
+  "author": "FORK -WeatherLayers.com <info@weatherlayers.com>",
   "license": "(MPL-2.0 OR LicenseRef-LICENSE_TERMS_OF_USE.md)",
   "homepage": "https://weatherlayers.com/",
   "bugs": {
